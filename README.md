@@ -1,4 +1,19 @@
-Discord Trackers coded by Zetty / Part of my portfolio
+## Info
+Blockchain Discord trackers
+
+> Crypto price tracker<br/>
+> Crypto marketcap tracker<br/>
+> NFT Floor price tracker<br/>
+
+## Usage
+Node.js: v16.14.0
+
+Install all packages
+```sh
+npm install
+```
+
+Then run it on your server
 
 ## Authors
 
